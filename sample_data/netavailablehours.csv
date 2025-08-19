@@ -1,0 +1,932 @@
+﻿FinalCustomerName,Segment,BU,DU,Month,NetAvailableHours
+A1,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Jan,307
+A1,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Feb,343
+A1,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Mar,172
+A1,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jan,364
+A1,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Feb,578
+A1,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Mar,514
+A1,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Apr,595
+A1,Plant Engineering,Digital Manufacturing Services,Mechanical Services,May,346
+A1,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jun,438
+A1,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Jan,172
+A1,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Feb,244
+A1,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,2205
+A1,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,2134
+A1,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,2604
+A1,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,2584
+A1,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,2457
+A1,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,2017
+A1,Plant Engineering,Digital Products & Services,Digital IP & PE & Off-Highway,Mar,124
+A1,Plant Engineering,Digital Products & Services,Digital PE & Mobility,Apr,91
+A1,Plant Engineering,FMCG,FMCG,Jan,59
+A1,Plant Engineering,FMCG,FMCG,Feb,7
+A1,Plant Engineering,FMCG,FMCG,Mar,88
+A1,Plant Engineering,FMCG,FMCG,Apr,427
+A1,Plant Engineering,FMCG,FMCG,May,583
+A1,Plant Engineering,FMCG,FMCG,Jun,719
+A1,Plant Engineering,FMCG,PSCG,Jan,14416
+A1,Plant Engineering,FMCG,PSCG,Feb,11182
+A1,Plant Engineering,FMCG,PSCG,Mar,11697
+A1,Plant Engineering,FMCG,PSCG,Apr,11585
+A1,Plant Engineering,FMCG,PSCG,May,15270
+A1,Plant Engineering,FMCG,PSCG,Jun,24709
+A1,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Apr,167
+A1,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,May,185
+A1,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Jun,185
+A1,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,39
+A1,Plant Engineering,Plant Engineering,Chemicals,Jan,-3
+A1,Plant Engineering,Plant Engineering,Chemicals,Feb,-1
+A1,Plant Engineering,Plant Engineering,Chemicals,Mar,32
+A1,Plant Engineering,Plant Engineering,Oil & Gas,Jan,45
+A1,Plant Engineering,Plant Engineering,Oil & Gas,Feb,116
+A1,Plant Engineering,Plant Engineering,Oil & Gas,Mar,9
+A1,Plant Engineering,System Integration,SI - Enterprises,Jan,168
+A1,Plant Engineering,System Integration,SI - Enterprises,Feb,310
+A1,Plant Engineering,System Integration,SI - Enterprises,Mar,320
+A1,Plant Engineering,System Integration,SI - Enterprises - LTTS,Apr,92
+A1,Plant Engineering,System Integration,SI - Enterprises - LTTS,May,166
+A1,Plant Engineering,System Integration,SI - Enterprises - LTTS,Jun,513
+A10,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,263
+A10,Transportation,Aerospace & Rail,Aerospace & Rail,May,253
+A10,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,267
+A10,Transportation,Digital Manufacturing Services,Mechanical Services,Jan,879
+A10,Transportation,Digital Manufacturing Services,Mechanical Services,Feb,722
+A10,Transportation,Digital Manufacturing Services,Mechanical Services,Mar,811
+A10,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,840
+A10,Transportation,Digital Manufacturing Services,Mechanical Services,May,1107
+A10,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,1067
+A10,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,140
+A10,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,167
+A10,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,176
+A10,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,185
+A10,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,381
+A10,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,471
+A10,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,372
+A10,Transportation,FMCG,FMCG,Jan,2925
+A10,Transportation,FMCG,FMCG,Feb,2867
+A10,Transportation,FMCG,FMCG,Mar,2765
+A10,Transportation,FMCG,FMCG,Apr,2390
+A10,Transportation,FMCG,FMCG,May,2858
+A10,Transportation,FMCG,FMCG,Jun,2722
+A10,Transportation,Plant Engineering,Chemicals,Jan,43
+A10,Transportation,Plant Engineering,Chemicals,Feb,41
+A10,Transportation,Plant Engineering,Chemicals,Mar,27
+A100,Plant Engineering,FMCG,FMCG,Apr,193
+A100,Plant Engineering,FMCG,FMCG,May,305
+A101,Industrial Products,FMCG,FMCG,Jun,77
+A102,Plant Engineering,FMCG,FMCG,Apr,4
+A102,Plant Engineering,FMCG,FMCG,May,328
+A102,Plant Engineering,FMCG,FMCG,Jun,670
+A103,Plant Engineering,FMCG,FMCG,Apr,-4
+A105,Plant Engineering,Digital Manufacturing Services,Mechanical Services,May,185
+A105,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jun,185
+A105,Plant Engineering,FMCG,FMCG,Jun,10
+A106,Plant Engineering,Energy & Automation,Energy,Jun,104
+A106,Plant Engineering,FMCG,FMCG,Jun,7
+A107,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,366
+A107,Transportation,Aerospace & Rail,Aerospace & Rail,May,208
+A107,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,-4
+A107,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,77
+A107,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,167
+A107,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,-4
+A107,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,185
+A107,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,176
+A107,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,-4
+A108,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,1233
+A108,Transportation,Aerospace & Rail,Aerospace & Rail,May,1073
+A108,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,1090
+A108,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,713
+A108,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,605
+A108,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,713
+A11,Plant Engineering,FMCG,FMCG,May,112
+A11,Plant Engineering,FMCG,FMCG,Jun,229
+A110,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,12
+A111,Industrial Products,Aerospace & Rail,Aerospace & Rail,Apr,204
+A111,Industrial Products,Aerospace & Rail,Aerospace & Rail,May,164
+A111,Industrial Products,Aerospace & Rail,Aerospace & Rail,Jun,365
+A111,Industrial Products,Digital Manufacturing Services,Mechanical Services,Apr,1036
+A111,Industrial Products,Digital Manufacturing Services,Mechanical Services,May,1047
+A111,Industrial Products,Digital Manufacturing Services,Mechanical Services,Jun,912
+A111,Industrial Products,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,1680
+A111,Industrial Products,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,1972
+A111,Industrial Products,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,1750
+A111,Industrial Products,Digital Products & Services,Digital IP & Medical,Apr,185
+A111,Industrial Products,Digital Products & Services,Digital IP & Medical,May,185
+A111,Industrial Products,Digital Products & Services,Digital IP & Medical,Jun,167
+A111,Industrial Products,Digital Products & Services,Digital PE & Mobility,Apr,555
+A111,Industrial Products,Digital Products & Services,Digital PE & Mobility,May,501
+A111,Industrial Products,Digital Products & Services,Digital PE & Mobility,Jun,471
+A111,Industrial Products,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,46
+A111,Industrial Products,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,280
+A111,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,Jun,148
+A112,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,428
+A113,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,370
+A113,Transportation,Digital Manufacturing Services,Mechanical Services,May,352
+A113,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,361
+A113,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,851
+A113,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,1731
+A113,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,1724
+A114,Plant Engineering,Aerospace & Rail,Aerospace & Rail,Apr,555
+A114,Plant Engineering,Aerospace & Rail,Aerospace & Rail,May,519
+A114,Plant Engineering,Aerospace & Rail,Aerospace & Rail,Jun,542
+A114,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,172
+A114,Transportation,Aerospace & Rail,Aerospace & Rail,May,160
+A114,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,160
+A114,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,344
+A114,Transportation,Digital Manufacturing Services,Mechanical Services,May,320
+A114,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,320
+A114,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,172
+A114,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,May,160
+A114,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,120
+A115,Media & Technology,Aerospace & Rail,Aerospace & Rail,Apr,783
+A115,Media & Technology,Aerospace & Rail,Aerospace & Rail,Jun,1246
+A115,Media & Technology,Embedded Engineering and V&V Group,V&V - Transportation,Apr,335
+A115,Media & Technology,Embedded Engineering and V&V Group,V&V - Transportation,May,528
+A115,Media & Technology,Embedded Engineering and V&V Group,V&V - Transportation,Jun,316
+A115,Transportation,Aerospace & Rail,Aerospace & Rail,May,1044
+A116,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,164
+A116,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,156
+A116,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,124
+A117,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,185
+A117,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,59
+A118,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,14
+A121,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,361
+A121,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,327
+A121,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,370
+A121,Media & Technology,Media,Media,Apr,334
+A121,Media & Technology,Media,Media,May,361
+A121,Media & Technology,Media,Media,Jun,361
+A122,Media & Technology,Digital Products & Services,Analytics & AI,Apr,537
+A122,Media & Technology,Digital Products & Services,Analytics & AI,May,339
+A122,Media & Technology,Digital Products & Services,Analytics & AI,Jun,185
+A122,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,943
+A122,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,718
+A122,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,695
+A122,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,370
+A122,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,316
+A122,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,334
+A122,Media & Technology,Media,Media,Apr,1891
+A122,Media & Technology,Media,Media,May,1751
+A122,Media & Technology,Media,Media,Jun,1785
+A123,Media & Technology,Media,Media,Apr,156
+A123,Media & Technology,Media,Media,May,156
+A123,Media & Technology,Media,Media,Jun,156
+A125,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,86
+A125,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,370
+A125,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,677
+A125,Media & Technology,Media,Media,Apr,167
+A125,Media & Technology,Media,Media,May,185
+A126,Media & Technology,Media,Media,Apr,564
+A128,Industrial Products,FMCG,PSCG,May,104
+A129,Plant Engineering,FMCG,PSCG,May,-2
+A13,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Feb,253
+A13,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Mar,343
+A130,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,84
+A130,Transportation,Aerospace & Rail,Aerospace & Rail,May,148
+A130,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,116
+A130,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,9612
+A130,Transportation,Digital Manufacturing Services,Mechanical Services,May,8873
+A130,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,8509
+A130,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,148
+A130,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,164
+A130,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,140
+A130,Transportation,Digital Products & Services,Digital PE & Mobility,Apr,156
+A130,Transportation,Digital Products & Services,Digital PE & Mobility,May,164
+A130,Transportation,Digital Products & Services,Digital PE & Mobility,Jun,108
+A131,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,185
+A131,Transportation,Digital Manufacturing Services,Mechanical Services,May,149
+A131,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,158
+A131,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,361
+A131,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,370
+A132,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,573
+A132,Transportation,Digital Manufacturing Services,Mechanical Services,May,537
+A132,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,519
+A133,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,1110
+A133,Transportation,Digital Manufacturing Services,Mechanical Services,May,1074
+A133,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,795
+A135,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,355
+A136,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,240
+A136,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,328
+A136,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,490
+A14,Plant Engineering,FMCG,FMCG,May,32
+A14,Plant Engineering,FMCG,FMCG,Jun,46
+A140,Media & Technology,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,1164
+A140,Media & Technology,Digital Manufacturing Services,Product Lifecycle Mgmt,May,944
+A140,Media & Technology,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,944
+A141,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,Apr,108
+A141,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,May,164
+A141,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,Jun,392
+A143,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,1700
+A143,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,1335
+A143,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,1291
+A145,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,673
+A145,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,1621
+A145,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,1959
+A148,Transportation,Digital Products & Services,Digital Comms. & Tech,Apr,5
+A150,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,695
+A150,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,499
+A150,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,623
+A150,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,380
+A150,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,637
+A151,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,343
+A151,Media & Technology,Media,Media,Jun,412
+A152,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Apr,334
+A152,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,May,325
+A152,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Jun,325
+A156,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,336
+A156,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,328
+A156,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,328
+A16,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,13486
+A16,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,13084
+A16,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,12666
+A16,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,3322
+A16,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,3213
+A16,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,3381
+A16,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,1391
+A16,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,1438
+A16,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,1272
+A161,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,7
+A17,Plant Engineering,Digital Products & Services,Digital Comms. & Tech,Apr,2164
+A17,Plant Engineering,Digital Products & Services,Digital Comms. & Tech,May,1773
+A17,Plant Engineering,Digital Products & Services,Digital Comms. & Tech,Jun,1702
+A17,Plant Engineering,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,1089
+A17,Plant Engineering,Embedded Engineering and V&V Group,V&V - M&T and IP,May,1636
+A17,Plant Engineering,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,1832
+A19,Media & Technology,Digital Manufacturing Services,Mechanical Services,Apr,194
+A19,Media & Technology,Digital Manufacturing Services,Mechanical Services,May,361
+A19,Media & Technology,Digital Manufacturing Services,Mechanical Services,Jun,370
+A19,Media & Technology,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,185
+A19,Media & Technology,Digital Manufacturing Services,Product Lifecycle Mgmt,May,176
+A19,Media & Technology,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,176
+A19,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,3518
+A19,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,3489
+A19,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,3827
+A19,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,1796
+A19,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,1196
+A19,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,1259
+A19,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,1318
+A19,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,2672
+A19,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,3613
+A2,Plant Engineering,FMCG,FMCG,Jan,1222
+A2,Plant Engineering,FMCG,FMCG,Feb,1062
+A2,Plant Engineering,FMCG,FMCG,Mar,1244
+A2,Plant Engineering,FMCG,FMCG,Apr,1171
+A2,Plant Engineering,FMCG,FMCG,May,874
+A2,Plant Engineering,FMCG,FMCG,Jun,903
+A2,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,15
+A2,Plant Engineering,Plant Engineering,Oil & Gas,Jan,45
+A2,Plant Engineering,Plant Engineering,Oil & Gas,Feb,32
+A2,Plant Engineering,Plant Engineering,Oil & Gas,Mar,66
+A20,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,380
+A20,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,352
+A20,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,370
+A20,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,181
+A20,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,185
+A20,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,217
+A21,Industrial Products,Aerospace & Rail,Aerospace & Rail,Apr,156
+A21,Industrial Products,Aerospace & Rail,Aerospace & Rail,May,132
+A21,Industrial Products,Aerospace & Rail,Aerospace & Rail,Jun,164
+A21,Industrial Products,Digital Manufacturing Services,Mechanical Services,Apr,500
+A21,Industrial Products,Digital Manufacturing Services,Mechanical Services,May,428
+A21,Industrial Products,Digital Manufacturing Services,Mechanical Services,Jun,396
+A21,Industrial Products,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,1790
+A21,Industrial Products,Digital Manufacturing Services,Product Lifecycle Mgmt,May,1637
+A21,Industrial Products,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,1455
+A21,Industrial Products,Digital Products & Services,Digital Comms. & Tech,Apr,190
+A21,Industrial Products,Digital Products & Services,Digital Comms. & Tech,May,144
+A21,Industrial Products,Digital Products & Services,Digital Comms. & Tech,Jun,176
+A21,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,1484
+A21,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,May,1293
+A21,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,1184
+A21,Plant Engineering,FMCG,FMCG,May,2
+A21,Plant Engineering,FMCG,FMCG,Jun,2607
+A21,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,41
+A21,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,172
+A21,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,156
+A21,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,132
+A22,Plant Engineering,FMCG,FMCG,Jan,156
+A22,Plant Engineering,FMCG,FMCG,Feb,37
+A22,Plant Engineering,FMCG,PSCG,Jan,87
+A22,Plant Engineering,FMCG,PSCG,Feb,188
+A22,Plant Engineering,Plant Engineering,Chemicals,Feb,86
+A23,Med Tech,Digital Products & Services,Analytics & AI,Feb,131
+A23,Med Tech,Digital Products & Services,Analytics & AI,Mar,185
+A23,Med Tech,Digital Products & Services,Analytics & AI,Apr,194
+A23,Med Tech,Digital Products & Services,Analytics & AI,May,154
+A23,Med Tech,Digital Products & Services,Digital IP & PE & Off-Highway,Feb,452
+A23,Med Tech,Digital Products & Services,Digital IP & PE & Off-Highway,Mar,632
+A23,Med Tech,Digital Products & Services,Digital PE & Mobility,Apr,546
+A23,Med Tech,Digital Products & Services,Digital PE & Mobility,May,551
+A23,Med Tech,Digital Products & Services,Digital PE & Mobility,Jun,501
+A23,Med Tech,FMCG,FMCG,Jan,512
+A23,Med Tech,FMCG,FMCG,Feb,574
+A23,Med Tech,FMCG,FMCG,Mar,633
+A23,Med Tech,FMCG,FMCG,Apr,488
+A23,Med Tech,FMCG,FMCG,May,615
+A23,Med Tech,FMCG,FMCG,Jun,328
+A25,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,167
+A25,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,384
+A25,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,176
+A25,Plant Engineering,"Electrical, Controls, Power & Utility",Power & Utilities,Feb,66
+A25,Plant Engineering,FMCG,FMCG,Jan,5559
+A25,Plant Engineering,FMCG,FMCG,Feb,4904
+A25,Plant Engineering,FMCG,FMCG,Mar,3662
+A25,Plant Engineering,FMCG,FMCG,Apr,1743
+A25,Plant Engineering,FMCG,FMCG,May,2140
+A25,Plant Engineering,FMCG,FMCG,Jun,1010
+A25,Plant Engineering,FMCG,PSCG,Feb,37
+A25,Plant Engineering,FMCG,PSCG,Mar,19
+A25,Plant Engineering,Plant Engineering,Chemicals,Jan,5
+A25,Plant Engineering,Plant Engineering,Exxon Mobil,Jan,60
+A25,Plant Engineering,Plant Engineering,Exxon Mobil,Feb,45
+A25,Plant Engineering,Plant Engineering,Exxon Mobil,Mar,39
+A25,Plant Engineering,Plant Engineering,Oil & Gas,Jan,179
+A26,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,4522
+A26,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,5476
+A26,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,3244
+A26,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,3917
+A26,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,3484
+A26,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,4924
+A26,Plant Engineering,FMCG,FMCG,Jan,1910
+A26,Plant Engineering,FMCG,FMCG,Feb,1529
+A26,Plant Engineering,FMCG,FMCG,Mar,1633
+A26,Plant Engineering,FMCG,FMCG,Apr,1208
+A26,Plant Engineering,FMCG,FMCG,May,2257
+A26,Plant Engineering,FMCG,FMCG,Jun,3132
+A26,Plant Engineering,FMCG,PSCG,May,36
+A26,Plant Engineering,FMCG,PSCG,Jun,54
+A26,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,49
+A26,Plant Engineering,Plant Engineering,Oil & Gas,Jan,66
+A26,Plant Engineering,Plant Engineering,Oil & Gas,Feb,1
+A26,Plant Engineering,Plant Engineering,Oil & Gas,Mar,19
+A27,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Jan,903
+A27,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,241
+A27,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,303
+A27,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,186
+A27,Plant Engineering,FMCG,FMCG,Jan,576
+A27,Plant Engineering,FMCG,FMCG,Feb,282
+A27,Plant Engineering,FMCG,FMCG,Mar,596
+A27,Plant Engineering,FMCG,FMCG,Apr,1174
+A27,Plant Engineering,FMCG,FMCG,May,1106
+A27,Plant Engineering,FMCG,FMCG,Jun,925
+A28,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,91
+A28,Plant Engineering,FMCG,FMCG,Jan,8024
+A28,Plant Engineering,FMCG,FMCG,Feb,8028
+A28,Plant Engineering,FMCG,FMCG,Mar,9304
+A28,Plant Engineering,FMCG,FMCG,Apr,8796
+A28,Plant Engineering,FMCG,FMCG,May,8132
+A28,Plant Engineering,FMCG,FMCG,Jun,9232
+A28,Plant Engineering,FMCG,PSCG,Mar,37
+A28,Plant Engineering,FMCG,PSCG,Apr,128
+A28,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,159
+A28,Plant Engineering,Plant Engineering,Chemicals,Jan,154
+A28,Plant Engineering,Plant Engineering,Oil & Gas,Jan,147
+A28,Plant Engineering,Plant Engineering,Oil & Gas,Feb,104
+A28,Plant Engineering,Plant Engineering,Oil & Gas,Mar,118
+A29,Plant Engineering,Digital Products & Services,Digital IP & PE & Off-Highway,Jan,456
+A29,Plant Engineering,Digital Products & Services,Digital IP & PE & Off-Highway,Feb,258
+A29,Plant Engineering,Digital Products & Services,Digital PE & Mobility,Apr,128
+A29,Plant Engineering,Digital Products & Services,Digital PE & Mobility,May,362
+A29,Plant Engineering,Digital Products & Services,Digital PE & Mobility,Jun,298
+A29,Plant Engineering,FMCG,FMCG,Jan,409
+A29,Plant Engineering,FMCG,FMCG,Feb,586
+A29,Plant Engineering,FMCG,FMCG,Mar,803
+A29,Plant Engineering,FMCG,FMCG,Apr,732
+A29,Plant Engineering,FMCG,FMCG,May,769
+A29,Plant Engineering,FMCG,FMCG,Jun,445
+A29,Plant Engineering,FMCG,PSCG,Mar,14
+A30,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Jan,656
+A30,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Feb,4182
+A30,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Mar,1488
+A30,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jan,316
+A30,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Feb,339
+A30,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Mar,326
+A30,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Apr,73
+A30,Plant Engineering,Digital Manufacturing Services,Mechanical Services,May,326
+A30,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jun,489
+A30,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,194
+A30,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,158
+A30,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,181
+A30,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,370
+A30,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,181
+A30,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,176
+A30,Plant Engineering,FMCG,FMCG,Jan,1125
+A30,Plant Engineering,FMCG,FMCG,Feb,1377
+A30,Plant Engineering,FMCG,FMCG,Mar,1620
+A30,Plant Engineering,FMCG,FMCG,Apr,1970
+A30,Plant Engineering,FMCG,FMCG,May,1511
+A30,Plant Engineering,FMCG,FMCG,Jun,1214
+A30,Plant Engineering,FMCG,PSCG,Jan,110
+A30,Plant Engineering,FMCG,PSCG,Feb,199
+A30,Plant Engineering,FMCG,PSCG,Mar,102
+A30,Plant Engineering,FMCG,PSCG,Apr,76
+A30,Plant Engineering,FMCG,PSCG,May,52
+A30,Plant Engineering,FMCG,PSCG,Jun,89
+A30,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Apr,2009
+A30,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,May,3556
+A30,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Jun,3939
+A30,Plant Engineering,Plant Engineering,Exxon Mobil,Feb,28
+A32,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jan,271
+A32,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Feb,335
+A32,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Mar,422
+A32,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Apr,444
+A32,Plant Engineering,Digital Manufacturing Services,Mechanical Services,May,529
+A32,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jun,370
+A32,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,185
+A32,Plant Engineering,FMCG,FMCG,Jan,5
+A32,Plant Engineering,FMCG,FMCG,Apr,62
+A32,Plant Engineering,FMCG,FMCG,May,445
+A32,Plant Engineering,FMCG,FMCG,Jun,293
+A34,Plant Engineering,FMCG,FMCG,Jan,27
+A34,Plant Engineering,FMCG,FMCG,Feb,19
+A34,Plant Engineering,FMCG,PSCG,Feb,41
+A35,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,677
+A35,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,461
+A35,Plant Engineering,FMCG,FMCG,Jan,4042
+A35,Plant Engineering,FMCG,FMCG,Feb,2292
+A35,Plant Engineering,FMCG,FMCG,Mar,1366
+A35,Plant Engineering,FMCG,FMCG,Apr,1417
+A35,Plant Engineering,FMCG,FMCG,May,1915
+A35,Plant Engineering,FMCG,FMCG,Jun,2903
+A35,Plant Engineering,FMCG,PSCG,Feb,32
+A35,Plant Engineering,FMCG,PSCG,Mar,60
+A35,Plant Engineering,FMCG,PSCG,Apr,-2
+A35,Plant Engineering,FMCG,PSCG,May,5
+A35,Plant Engineering,Plant Engineering,Exxon Mobil,Jan,13
+A36,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Jan,219
+A36,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Feb,817
+A36,Plant Engineering,Digital Manufacturing Services,Integrated Asset Mgmt,Mar,772
+A36,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,68
+A36,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,May,141
+A36,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,519
+A36,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,176
+A36,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,82
+A36,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,-4
+A36,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,373
+A36,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,259
+A36,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,299
+A36,Plant Engineering,Digital Products & Services,Digital IP & PE & Off-Highway,Jan,194
+A36,Plant Engineering,Digital Products & Services,Digital IP & PE & Off-Highway,Feb,167
+A36,Plant Engineering,Digital Products & Services,Digital IP & PE & Off-Highway,Mar,185
+A36,Plant Engineering,Digital Products & Services,Digital PE & Mobility,Apr,194
+A36,Plant Engineering,Digital Products & Services,Digital PE & Mobility,May,185
+A36,Plant Engineering,Digital Products & Services,Digital PE & Mobility,Jun,172
+A36,Plant Engineering,FMCG,FMCG,Jan,1280
+A36,Plant Engineering,FMCG,FMCG,Feb,1358
+A36,Plant Engineering,FMCG,FMCG,Mar,1434
+A36,Plant Engineering,FMCG,FMCG,Apr,1243
+A36,Plant Engineering,FMCG,FMCG,May,440
+A36,Plant Engineering,FMCG,FMCG,Jun,214
+A36,Plant Engineering,FMCG,PSCG,Jan,66
+A36,Plant Engineering,FMCG,PSCG,Feb,724
+A36,Plant Engineering,FMCG,PSCG,Mar,657
+A36,Plant Engineering,FMCG,PSCG,Apr,737
+A36,Plant Engineering,FMCG,PSCG,May,511
+A36,Plant Engineering,FMCG,PSCG,Jun,1132
+A36,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Apr,776
+A36,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,May,-15
+A36,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Jun,731
+A37,Plant Engineering,"Electrical, Controls, Power & Utility",Power & Utilities,Feb,43
+A37,Plant Engineering,"Electrical, Controls, Power & Utility",Power & Utilities,Mar,140
+A37,Plant Engineering,FMCG,FMCG,Jan,155
+A37,Plant Engineering,FMCG,FMCG,Feb,374
+A37,Plant Engineering,FMCG,FMCG,Mar,998
+A37,Plant Engineering,FMCG,FMCG,Apr,987
+A37,Plant Engineering,FMCG,FMCG,May,747
+A37,Plant Engineering,FMCG,FMCG,Jun,339
+A37,Plant Engineering,FMCG,PSCG,Mar,0
+A37,Plant Engineering,Integrated Asset Mgmt,Integrated Asset Mgmt,Jun,185
+A37,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,5
+A37,Plant Engineering,Plant Engineering,Oil & Gas,Jan,-4
+A37,Plant Engineering,Plant Engineering,Oil & Gas,Feb,58
+A37,Plant Engineering,Plant Engineering,Oil & Gas,Mar,62
+A38,Plant Engineering,FMCG,FMCG,Apr,-4
+A41,Industrial Products,FMCG,FMCG,Jan,620
+A41,Industrial Products,FMCG,FMCG,Feb,655
+A41,Industrial Products,FMCG,FMCG,Mar,874
+A41,Industrial Products,FMCG,FMCG,Apr,938
+A41,Industrial Products,FMCG,FMCG,May,769
+A41,Industrial Products,FMCG,FMCG,Jun,811
+A41,Industrial Products,FMCG,PSCG,Jan,38
+A41,Industrial Products,FMCG,PSCG,Feb,62
+A41,Industrial Products,FMCG,PSCG,Mar,54
+A41,Industrial Products,FMCG,PSCG,Apr,48
+A41,Industrial Products,FMCG,PSCG,May,31
+A41,Industrial Products,FMCG,PSCG,Jun,54
+A43,Plant Engineering,FMCG,FMCG,Jan,5671
+A43,Plant Engineering,FMCG,FMCG,Feb,4095
+A43,Plant Engineering,FMCG,FMCG,Mar,3808
+A43,Plant Engineering,FMCG,FMCG,Apr,3574
+A43,Plant Engineering,FMCG,FMCG,May,2851
+A43,Plant Engineering,FMCG,FMCG,Jun,1667
+A43,Plant Engineering,Plant Engineering,Oil & Gas,Feb,28
+A43,Plant Engineering,Plant Engineering,Oil & Gas,Mar,47
+A44,Plant Engineering,FMCG,FMCG,Jan,78
+A44,Plant Engineering,FMCG,FMCG,Feb,75
+A44,Plant Engineering,FMCG,FMCG,Mar,108
+A44,Plant Engineering,FMCG,FMCG,Apr,96
+A44,Plant Engineering,FMCG,FMCG,May,144
+A46,Plant Engineering,FMCG,FMCG,Apr,134
+A46,Plant Engineering,FMCG,FMCG,May,134
+A47,Plant Engineering,FMCG,FMCG,Jan,349
+A47,Plant Engineering,FMCG,FMCG,Feb,1055
+A47,Plant Engineering,FMCG,FMCG,Mar,1333
+A47,Plant Engineering,FMCG,FMCG,Apr,3177
+A47,Plant Engineering,FMCG,FMCG,May,3407
+A47,Plant Engineering,FMCG,FMCG,Jun,1073
+A47,Plant Engineering,FMCG,PSCG,Mar,19
+A47,Plant Engineering,O&G and Chemicals,Chemicals,Jun,11
+A47,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,17
+A47,Plant Engineering,Plant Engineering,Oil & Gas,Mar,190
+A48,Plant Engineering,FMCG,FMCG,Apr,352
+A48,Plant Engineering,FMCG,FMCG,May,411
+A49,Industrial Products,FMCG,FMCG,Jan,106
+A49,Industrial Products,FMCG,FMCG,Feb,172
+A49,Industrial Products,FMCG,FMCG,Mar,173
+A49,Industrial Products,FMCG,FMCG,Apr,180
+A49,Industrial Products,FMCG,FMCG,May,156
+A49,Industrial Products,FMCG,FMCG,Jun,210
+A5,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jan,2029
+A5,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Feb,2470
+A5,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Mar,2585
+A5,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Apr,2928
+A5,Plant Engineering,Digital Manufacturing Services,Mechanical Services,May,2973
+A5,Plant Engineering,Digital Manufacturing Services,Mechanical Services,Jun,2538
+A5,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Jan,194
+A5,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Feb,176
+A5,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Mar,176
+A5,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,194
+A5,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,May,185
+A5,Plant Engineering,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,185
+A5,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,296
+A5,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,296
+A5,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,280
+A5,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,485
+A5,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,701
+A5,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,349
+A5,Plant Engineering,FMCG,FMCG,Jan,765
+A5,Plant Engineering,FMCG,FMCG,Feb,925
+A5,Plant Engineering,FMCG,FMCG,Mar,322
+A5,Plant Engineering,FMCG,FMCG,Apr,444
+A5,Plant Engineering,FMCG,FMCG,May,991
+A5,Plant Engineering,FMCG,FMCG,Jun,933
+A50,Media & Technology,FMCG,FMCG,Jan,2894
+A50,Media & Technology,FMCG,FMCG,Feb,2303
+A50,Media & Technology,FMCG,FMCG,Mar,2291
+A50,Media & Technology,FMCG,FMCG,Apr,2461
+A50,Media & Technology,FMCG,FMCG,Jun,1273
+A50,Media & Technology,FMCG,PSCG,Jan,55
+A50,Media & Technology,FMCG,PSCG,Feb,32
+A50,Media & Technology,FMCG,PSCG,Mar,14
+A50,Plant Engineering,FMCG,FMCG,Jan,370
+A50,Plant Engineering,FMCG,FMCG,Feb,334
+A50,Plant Engineering,FMCG,FMCG,Mar,370
+A50,Plant Engineering,FMCG,FMCG,Apr,175
+A50,Plant Engineering,FMCG,FMCG,May,1464
+A50,Plant Engineering,FMCG,FMCG,Jun,370
+A50,Plant Engineering,Plant Engineering,Oil & Gas,Jan,22
+A50,Plant Engineering,Plant Engineering,Oil & Gas,Feb,5
+A50,Plant Engineering,Plant Engineering,Oil & Gas,Mar,5
+A52,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,2694
+A52,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Feb,2321
+A52,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,2467
+A52,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,1184
+A52,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,1276
+A52,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,1691
+A52,Plant Engineering,Digital Products & Services,Analytics & AI,Jan,185
+A52,Plant Engineering,Digital Products & Services,Analytics & AI,Feb,176
+A52,Plant Engineering,Digital Products & Services,Analytics & AI,Mar,176
+A52,Plant Engineering,FMCG,FMCG,Jan,2058
+A52,Plant Engineering,FMCG,FMCG,Feb,1855
+A52,Plant Engineering,FMCG,FMCG,Mar,1810
+A52,Plant Engineering,FMCG,FMCG,Apr,1535
+A52,Plant Engineering,FMCG,FMCG,May,1491
+A52,Plant Engineering,FMCG,FMCG,Jun,1205
+A52,Plant Engineering,FMCG,PSCG,Jan,34
+A52,Plant Engineering,FMCG,PSCG,Feb,28
+A52,Plant Engineering,Plant Engineering,Oil & Gas,Feb,50
+A52,Plant Engineering,Plant Engineering,Oil & Gas,Mar,20
+A53,Plant Engineering,FMCG,FMCG,Jan,993
+A53,Plant Engineering,FMCG,FMCG,Feb,1718
+A53,Plant Engineering,FMCG,FMCG,Mar,2160
+A53,Plant Engineering,FMCG,FMCG,Apr,2779
+A53,Plant Engineering,FMCG,FMCG,May,2201
+A53,Plant Engineering,FMCG,FMCG,Jun,2309
+A53,Plant Engineering,FMCG,PSCG,Jan,28
+A53,Plant Engineering,FMCG,PSCG,Feb,26
+A53,Plant Engineering,FMCG,PSCG,Mar,28
+A53,Plant Engineering,FMCG,PSCG,Apr,36
+A53,Plant Engineering,FMCG,PSCG,May,36
+A53,Plant Engineering,FMCG,PSCG,Jun,34
+A53,Plant Engineering,O&G and Chemicals,Chemicals,Jun,15
+A53,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,91
+A53,Plant Engineering,Plant Engineering,Exxon Mobil,Feb,12
+A53,Plant Engineering,Plant Engineering,Oil & Gas,Mar,32
+A54,Plant Engineering,FMCG,FMCG,Jan,168
+A54,Plant Engineering,FMCG,FMCG,Feb,146
+A54,Plant Engineering,FMCG,FMCG,Mar,121
+A54,Plant Engineering,FMCG,FMCG,Apr,-4
+A54,Plant Engineering,FMCG,FMCG,Jun,41
+A56,Plant Engineering,FMCG,FMCG,Jan,2536
+A56,Plant Engineering,FMCG,FMCG,Feb,2501
+A56,Plant Engineering,FMCG,FMCG,Mar,2953
+A56,Plant Engineering,FMCG,FMCG,Apr,2846
+A56,Plant Engineering,FMCG,FMCG,May,2284
+A56,Plant Engineering,FMCG,FMCG,Jun,1914
+A56,Plant Engineering,FMCG,PSCG,Mar,4
+A56,Plant Engineering,O&G and Chemicals,Chemicals,Jun,39
+A56,Plant Engineering,Plant Engineering,Exxon Mobil,Mar,34
+A56,Plant Engineering,Plant Engineering,Oil & Gas,Jan,32
+A56,Plant Engineering,Plant Engineering,Oil & Gas,Feb,59
+A56,Plant Engineering,Plant Engineering,Oil & Gas,Mar,83
+A58,Plant Engineering,FMCG,FMCG,Jan,64
+A59,Plant Engineering,FMCG,FMCG,Apr,64
+A59,Plant Engineering,FMCG,FMCG,May,65
+A6,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jan,244
+A6,Plant Engineering,FMCG,FMCG,Jan,940
+A6,Plant Engineering,FMCG,FMCG,Feb,156
+A6,Plant Engineering,FMCG,FMCG,Mar,124
+A6,Plant Engineering,FMCG,FMCG,Apr,132
+A6,Plant Engineering,FMCG,FMCG,May,76
+A60,Plant Engineering,FMCG,FMCG,Jan,682
+A60,Plant Engineering,FMCG,FMCG,Feb,592
+A60,Plant Engineering,FMCG,FMCG,Mar,628
+A60,Plant Engineering,FMCG,FMCG,Apr,697
+A60,Plant Engineering,FMCG,FMCG,May,705
+A60,Plant Engineering,FMCG,FMCG,Jun,643
+A61,Med Tech,FMCG,FMCG,Jan,221
+A61,Med Tech,FMCG,FMCG,Feb,174
+A61,Med Tech,FMCG,FMCG,Mar,321
+A61,Med Tech,FMCG,FMCG,Apr,883
+A61,Med Tech,FMCG,FMCG,May,419
+A61,Med Tech,FMCG,FMCG,Jun,320
+A63,Plant Engineering,FMCG,FMCG,Apr,198
+A63,Plant Engineering,FMCG,FMCG,May,151
+A65,Plant Engineering,FMCG,FMCG,Apr,42
+A65,Plant Engineering,FMCG,FMCG,May,101
+A66,Media & Technology,FMCG,FMCG,Jan,10
+A67,Transportation,FMCG,FMCG,Jan,47
+A67,Transportation,FMCG,FMCG,Mar,208
+A67,Transportation,FMCG,FMCG,Apr,121
+A67,Transportation,FMCG,FMCG,May,52
+A67,Transportation,FMCG,FMCG,Jun,155
+A68,Plant Engineering,FMCG,FMCG,Jan,1979
+A68,Plant Engineering,FMCG,FMCG,Feb,1884
+A68,Plant Engineering,FMCG,FMCG,Mar,1823
+A68,Plant Engineering,FMCG,FMCG,Apr,1924
+A68,Plant Engineering,FMCG,FMCG,May,1814
+A68,Plant Engineering,FMCG,FMCG,Jun,1829
+A7,Plant Engineering,FMCG,FMCG,Apr,-17
+A7,Plant Engineering,FMCG,FMCG,May,-28
+A70,Plant Engineering,FMCG,FMCG,Jan,2586
+A70,Plant Engineering,FMCG,FMCG,Feb,3037
+A70,Plant Engineering,FMCG,FMCG,Mar,2547
+A70,Plant Engineering,FMCG,FMCG,Apr,3267
+A70,Plant Engineering,FMCG,FMCG,May,2885
+A70,Plant Engineering,FMCG,FMCG,Jun,2861
+A70,Plant Engineering,FMCG,PSCG,Jan,59
+A70,Plant Engineering,FMCG,PSCG,Feb,77
+A70,Plant Engineering,FMCG,PSCG,Mar,4
+A70,Plant Engineering,Plant Engineering,Oil & Gas,Mar,110
+A71,Plant Engineering,FMCG,FMCG,Jan,1590
+A71,Plant Engineering,FMCG,FMCG,Feb,1178
+A71,Plant Engineering,FMCG,FMCG,Mar,546
+A71,Plant Engineering,FMCG,FMCG,Apr,531
+A71,Plant Engineering,FMCG,FMCG,May,456
+A71,Plant Engineering,FMCG,FMCG,Jun,842
+A71,Plant Engineering,Plant Engineering,Exxon Mobil,Mar,15
+A72,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Mar,95
+A72,Plant Engineering,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,104
+A72,Plant Engineering,"Electrical, Controls, Power & Utility",Power & Utilities,Mar,14
+A72,Plant Engineering,FMCG,FMCG,Mar,53
+A73,Plant Engineering,FMCG,FMCG,Jan,1339
+A73,Plant Engineering,FMCG,FMCG,Feb,1699
+A73,Plant Engineering,FMCG,FMCG,Mar,1575
+A73,Plant Engineering,FMCG,FMCG,Apr,1779
+A73,Plant Engineering,FMCG,FMCG,May,657
+A73,Plant Engineering,FMCG,FMCG,Jun,128
+A73,Plant Engineering,FMCG,PSCG,Mar,32
+A73,Plant Engineering,O&G and Chemicals,Oil & Gas,Jun,15
+A73,Plant Engineering,Plant Engineering,Oil & Gas,Jan,80
+A73,Plant Engineering,Plant Engineering,Oil & Gas,Feb,59
+A73,Plant Engineering,Plant Engineering,Oil & Gas,Mar,15
+A75,Plant Engineering,FMCG,FMCG,May,243
+A75,Plant Engineering,FMCG,FMCG,Jun,-47
+A76,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,767
+A76,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,916
+A76,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,993
+A76,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,316
+A76,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,704
+A76,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,1083
+A76,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,731
+A76,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,874
+A76,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,1857
+A76,Media & Technology,Media,Media,Apr,8327
+A76,Media & Technology,Media,Media,May,8489
+A76,Media & Technology,Media,Media,Jun,8057
+A77,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,18667
+A77,Transportation,Aerospace & Rail,Aerospace & Rail,May,18635
+A77,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,19643
+A77,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,189
+A77,Transportation,Digital Manufacturing Services,Mechanical Services,May,341
+A77,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,164
+A77,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,344
+A77,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,May,713
+A77,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,835
+A77,Transportation,Digital Products & Services,Digital PE & Mobility,Apr,176
+A77,Transportation,Digital Products & Services,Digital PE & Mobility,May,164
+A77,Transportation,Digital Products & Services,Digital PE & Mobility,Jun,156
+A77,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,176
+A77,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,176
+A77,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,154
+A77,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,164
+A77,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,May,349
+A77,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,319
+A77,Transportation,Embedded Engineering and V&V Group,V&V - Medical,Apr,164
+A77,Transportation,Embedded Engineering and V&V Group,V&V - Medical,May,156
+A77,Transportation,Embedded Engineering and V&V Group,V&V - Medical,Jun,-4
+A77,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,296
+A77,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,299
+A77,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,463
+A78,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,10172
+A78,Transportation,Aerospace & Rail,Aerospace & Rail,May,9847
+A78,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,9286
+A78,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,185
+A78,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,May,176
+A78,Transportation,Digital Products & Services,Digital PE & Mobility,May,182
+A78,Transportation,Digital Products & Services,Digital PE & Mobility,Jun,164
+A78,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,3278
+A78,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,3116
+A78,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,3078
+A80,Industrial Products,Aerospace & Rail,Aerospace & Rail,Apr,1128
+A80,Industrial Products,Aerospace & Rail,Aerospace & Rail,May,1276
+A80,Industrial Products,Aerospace & Rail,Aerospace & Rail,Jun,1444
+A80,Industrial Products,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,172
+A80,Industrial Products,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,280
+A80,Industrial Products,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,200
+A80,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,Apr,644
+A80,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,May,640
+A80,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,Jun,492
+A81,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,190
+A81,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,143
+A81,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,185
+A81,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,1462
+A81,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,1453
+A81,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,1435
+A81,Media & Technology,Media,Media,Apr,12244
+A81,Media & Technology,Media,Media,May,11802
+A81,Media & Technology,Media,Media,Jun,11337
+A81,Media & Technology,System Integration,SI - Enterprises - LTTS,Apr,194
+A81,Media & Technology,System Integration,SI - Enterprises - LTTS,May,167
+A81,Media & Technology,System Integration,SI - Enterprises - LTTS,Jun,176
+A82,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,2656
+A82,Transportation,Aerospace & Rail,Aerospace & Rail,May,2252
+A82,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,2032
+A82,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,176
+A82,Transportation,Digital Manufacturing Services,Mechanical Services,May,-4
+A82,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,68
+A82,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,555
+A82,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,May,799
+A82,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,799
+A82,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,148
+A82,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,156
+A82,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,128
+A82,Transportation,Digital Products & Services,Digital PE & Mobility,Apr,379
+A82,Transportation,Digital Products & Services,Digital PE & Mobility,May,73
+A82,Transportation,Digital Products & Services,Digital PE & Mobility,Jun,42
+A83,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Apr,388
+A83,Media & Technology,Digital Products & Services,Digital Comms. & Tech,May,341
+A83,Media & Technology,Digital Products & Services,Digital Comms. & Tech,Jun,420
+A83,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,167
+A83,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,185
+A83,Media & Technology,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,176
+A83,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,1187
+A83,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,1142
+A83,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,1196
+A83,Media & Technology,Media,Media,Apr,3936
+A83,Media & Technology,Media,Media,May,3403
+A83,Media & Technology,Media,Media,Jun,3349
+A84,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,614
+A84,Transportation,Aerospace & Rail,Aerospace & Rail,May,671
+A84,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,735
+A84,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,564
+A84,Transportation,Digital Manufacturing Services,Mechanical Services,May,375
+A84,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,380
+A84,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,1028
+A84,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,972
+A84,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,1068
+A84,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,328
+A84,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,260
+A84,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,292
+A85,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,7780
+A85,Transportation,Aerospace & Rail,Aerospace & Rail,May,7176
+A85,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,7276
+A85,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,22667
+A85,Transportation,Digital Manufacturing Services,Mechanical Services,May,21970
+A85,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,22197
+A85,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,1332
+A85,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,1216
+A85,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,1472
+A85,Transportation,Digital Products & Services,Analytics & AI,Apr,405
+A85,Transportation,Digital Products & Services,Analytics & AI,May,412
+A85,Transportation,Digital Products & Services,Analytics & AI,Jun,328
+A85,Transportation,Digital Products & Services,Digital IP & Medical,Apr,148
+A85,Transportation,Digital Products & Services,Digital IP & Medical,May,164
+A85,Transportation,Digital Products & Services,Digital IP & Medical,Jun,164
+A85,Transportation,Digital Products & Services,Digital PE & Mobility,Apr,1329
+A85,Transportation,Digital Products & Services,Digital PE & Mobility,May,1984
+A85,Transportation,Digital Products & Services,Digital PE & Mobility,Jun,2268
+A85,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,2721
+A85,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,2605
+A85,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,2758
+A86,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,2768
+A86,Transportation,Aerospace & Rail,Aerospace & Rail,May,3096
+A86,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,3172
+A86,Transportation,Digital Products & Services,Analytics & AI,Apr,552
+A86,Transportation,Digital Products & Services,Analytics & AI,May,460
+A86,Transportation,Digital Products & Services,Analytics & AI,Jun,468
+A86,Transportation,Digital Products & Services,Digital PE & Mobility,Apr,1384
+A86,Transportation,Digital Products & Services,Digital PE & Mobility,May,1332
+A86,Transportation,Digital Products & Services,Digital PE & Mobility,Jun,1208
+A86,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,632
+A86,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,608
+A86,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,592
+A87,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,208
+A87,Transportation,Aerospace & Rail,Aerospace & Rail,May,1736
+A87,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,1414
+A87,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,4168
+A87,Transportation,Digital Manufacturing Services,Mechanical Services,May,4324
+A87,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,4200
+A87,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,172
+A87,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,May,164
+A87,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,124
+A89,Plant Engineering,FMCG,FMCG,Apr,-8
+A89,Plant Engineering,FMCG,FMCG,May,389
+A89,Plant Engineering,FMCG,FMCG,Jun,253
+A91,Industrial Products,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,341
+A91,Industrial Products,Digital Manufacturing Services,Product Lifecycle Mgmt,May,313
+A91,Industrial Products,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,325
+A91,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,6440
+A91,Transportation,Aerospace & Rail,Aerospace & Rail,May,6117
+A91,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,6564
+A91,Transportation,Building Technology,Building Technology,Jun,185
+A91,Transportation,Digital Manufacturing Services,Mechanical Services,Apr,7661
+A91,Transportation,Digital Manufacturing Services,Mechanical Services,May,7666
+A91,Transportation,Digital Manufacturing Services,Mechanical Services,Jun,7653
+A91,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Apr,546
+A91,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,May,492
+A91,Transportation,Digital Manufacturing Services,Product Lifecycle Mgmt,Jun,483
+A91,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Apr,2425
+A91,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,May,2317
+A91,Transportation,Digital Manufacturing Services,Smart Manufacturing & Sourcing,Jun,2151
+A91,Transportation,Digital Products & Services,Digital IP & Medical,Apr,59
+A91,Transportation,Digital Products & Services,Digital PE & Mobility,Apr,1820
+A91,Transportation,Digital Products & Services,Digital PE & Mobility,May,1663
+A91,Transportation,Digital Products & Services,Digital PE & Mobility,Jun,1597
+A91,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,1130
+A91,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,1120
+A91,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,1601
+A91,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,3936
+A91,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,3792
+A91,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,3756
+A92,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,612
+A92,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,May,833
+A92,Media & Technology,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,798
+A92,Media & Technology,Media,Media,Apr,3184
+A92,Media & Technology,Media,Media,May,3540
+A92,Media & Technology,Media,Media,Jun,3655
+A94,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,3940
+A94,Transportation,Aerospace & Rail,Aerospace & Rail,May,3916
+A94,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,3884
+A94,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,480
+A94,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,584
+A94,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,592
+A95,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,867
+A95,Transportation,Aerospace & Rail,Aerospace & Rail,May,796
+A95,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,814
+A95,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,2185
+A95,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,May,2171
+A95,Transportation,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Jun,1472
+A95,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,1788
+A95,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,2098
+A95,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,2184
+A96,Transportation,Aerospace & Rail,Aerospace & Rail,Apr,3944
+A96,Transportation,Aerospace & Rail,Aerospace & Rail,May,4029
+A96,Transportation,Aerospace & Rail,Aerospace & Rail,Jun,5222
+A96,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,Apr,41
+A96,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,May,185
+A96,Transportation,Embedded Engineering and V&V Group,V&V - M&T and IP,Jun,-4
+A96,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Apr,543
+A96,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,May,276
+A96,Transportation,Embedded Engineering and V&V Group,V&V - Transportation,Jun,863
+A97,Industrial Products,Aerospace & Rail,Aerospace & Rail,Apr,584
+A97,Industrial Products,Aerospace & Rail,Aerospace & Rail,May,68
+A97,Industrial Products,Aerospace & Rail,Aerospace & Rail,Jun,-8
+A97,Industrial Products,Embedded Engineering and V&V Group,Embedded HW & SW Engineering,Apr,-4
+A97,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,Apr,1128
+A97,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,May,704
+A97,Industrial Products,Embedded Engineering and V&V Group,V&V - Transportation,Jun,924
+A97,Media & Technology,Aerospace & Rail,Aerospace & Rail,Jun,12
+A97,Transportation,Aerospace & Rail,Aerospace & Rail,May,8
+A99,Plant Engineering,FMCG,FMCG,May,154
+A99,Plant Engineering,FMCG,FMCG,Jun,161
