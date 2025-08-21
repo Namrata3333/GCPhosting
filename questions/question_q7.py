@@ -13,8 +13,10 @@ from io import BytesIO
 from dotenv import load_dotenv
 
 load_dotenv('.env.template')
-def run(df, user_question):
-    # Load correct dataset directly from GCS
+
+# Use Streamlit's caching to load data, which helps with performance
+@st.cache_data
+def load_data():
     try:
         service_account_json = os.getenv("GOOGLE_APPLICATION_CREDENTIALS_JSON")
         bucket_name = os.getenv("GCS_BUCKET_NAME")
@@ -34,10 +36,20 @@ def run(df, user_question):
         with BytesIO() as buffer:
             blob.download_to_file(buffer)
             buffer.seek(0)
-            df = pd.read_excel(buffer)  # The 'df' argument is overwritten here
-            
+            df = pd.read_excel(buffer)
+        
+        return df
+
     except Exception as e:
-        raise RuntimeError(f"Failed to load data from GCS: {e}")
+        st.error(f"Failed to load data from GCS: {e}")
+        return pd.DataFrame() # Return empty DataFrame on failure
+
+
+def run(df, user_question):
+    # Load data using the cached function
+    df = load_data()
+    if df.empty:
+        return # Exit if data loading failed
 
     df['Date_a'] = pd.to_datetime(df['Date_a'], errors='coerce')
     df = df.dropna(subset=['Date_a', 'FinalCustomerName', 'PSNo'])
@@ -57,28 +69,30 @@ def run(df, user_question):
 
             # Summary insight
             overall_fte = chart_data.sum(axis=1)
-            first_month = overall_fte.index[0]
-            last_month = overall_fte.index[-1]
-            fte_change = overall_fte.iloc[-1] - overall_fte.iloc[0]
-            pct_change = (fte_change / overall_fte.iloc[0]) * 100 if overall_fte.iloc[0] else 0
-
-            st.markdown(
-                f"🔍 **Overall FTE (Headcount)** grew from **{overall_fte.iloc[0]:.1f}** in **{first_month}** "
-                f"to **{overall_fte.iloc[-1]:.1f}** in **{last_month}**, a change of **{fte_change:.1f} FTEs "
-                f"({pct_change:.1f}%)**."
-            )
-
+            if not overall_fte.empty: # Check to avoid errors on empty data
+                first_month = overall_fte.index[0]
+                last_month = overall_fte.index[-1]
+                fte_change = overall_fte.iloc[-1] - overall_fte.iloc[0]
+                pct_change = (fte_change / overall_fte.iloc[0]) * 100 if overall_fte.iloc[0] else 0
+            
+                st.markdown(
+                    f"🔍 **Overall FTE (Headcount)** grew from **{overall_fte.iloc[0]:.1f}** in **{first_month}** "
+                    f"to **{overall_fte.iloc[-1]:.1f}** in **{last_month}**, a change of **{fte_change:.1f} FTEs "
+                    f"({pct_change:.1f}%)**."
+                )
+            
             # Additional breakdown
             total_count = df['PSNo'].nunique()
-            billable_pct = df[df['Status'] == 'Billable']['PSNo'].nunique() / total_count * 100 if total_count else 0
-            nonbillable_pct = df[df['Status'] == 'Non Billable']['PSNo'].nunique() / total_count * 100 if total_count else 0
-            onsite_pct = df[df['Onsite/Offshore'] == 'Onsite']['PSNo'].nunique() / total_count * 100 if total_count else 0
-            offshore_pct = df[df['Onsite/Offshore'] == 'Offshore']['PSNo'].nunique() / total_count * 100 if total_count else 0
-
-            st.markdown(
-                f"🔍 **Headcount Breakdown**: **{billable_pct:.1f}% Billable**, **{nonbillable_pct:.1f}% Non-Billable**, "
-                f"**{onsite_pct:.1f}% Onsite**, **{offshore_pct:.1f}% Offshore**."
-            )
+            if total_count > 0:
+                billable_pct = df[df['Status'] == 'Billable']['PSNo'].nunique() / total_count * 100
+                nonbillable_pct = df[df['Status'] == 'Non Billable']['PSNo'].nunique() / total_count * 100
+                onsite_pct = df[df['Onsite/Offshore'] == 'Onsite']['PSNo'].nunique() / total_count * 100
+                offshore_pct = df[df['Onsite/Offshore'] == 'Offshore']['PSNo'].nunique() / total_count * 100
+            
+                st.markdown(
+                    f"🔍 **Headcount Breakdown**: **{billable_pct:.1f}% Billable**, **{nonbillable_pct:.1f}% Non-Billable**, "
+                    f"**{onsite_pct:.1f}% Onsite**, **{offshore_pct:.1f}% Offshore**."
+                )
 
             col1, col2 = st.columns([1, 1])
             with col1:
@@ -87,6 +101,8 @@ def run(df, user_question):
 
             with col2:
                 st.markdown(f"### 📈 MoM FTE Trend (Top 6 by {groupby_col})")
+                
+                # --- This block is now self-contained and correct ---
                 fig, ax = plt.subplots(figsize=(8, 5))
                 for spine in ax.spines.values():
                     spine.set_color('#D3D3D3')
@@ -110,9 +126,11 @@ def run(df, user_question):
                 ax.set_xticklabels(x_labels, rotation=45)
                 ax.legend(loc='upper left', fontsize=8)
                 ax.grid(False)
-                st.pyplot(fig)
+                st.pyplot(fig) # Correctly displays the first figure
 
             st.markdown("### 📊 Headcount Composition by Month")
+            
+            # --- This block is also now self-contained and correct ---
             stacked_data = df.groupby(['Month', 'Status'])['PSNo'].nunique().unstack().fillna(0)
             stacked_data2 = df.groupby(['Month', 'Onsite/Offshore'])['PSNo'].nunique().unstack().fillna(0)
             fig1, axs = plt.subplots(1, 2, figsize=(14, 5))
@@ -134,4 +152,4 @@ def run(df, user_question):
             axs[1].set_ylabel("Headcount")
             axs[1].legend(loc='upper left', fontsize=8)
             axs[1].tick_params(axis='x', rotation=45)
-            st.pyplot(fig1)
+            st.pyplot(fig1) # Correctly displays the second figure
