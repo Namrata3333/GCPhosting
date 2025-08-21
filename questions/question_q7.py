@@ -109,7 +109,7 @@ def run(df, user_question):
                         color=alt.Color(f"{groupby_col}:N", legend=alt.Legend(title=groupby_col)),
                         tooltip=["Month", groupby_col, "FTE"]
                     )
-                    .properties(width=500, height=300, title="Monthly FTE (Trend)")
+                    .properties(width=500, height=450, title="Monthly FTE (Trend)")
                 )
 
                 st.altair_chart(trend_chart, use_container_width=True)
@@ -128,7 +128,7 @@ def run(df, user_question):
                     color=alt.Color("Status:N", legend=alt.Legend(title="Status")),
                     tooltip=["Month", "Status", "Headcount"]
                 )
-                .properties(width=300, height=300, title="Monthly Billable vs Non-Billable")
+                .properties(width=300, height=450, title="Monthly Billable vs Non-Billable")
             )
 
             # Onsite vs Offshore
@@ -143,8 +143,16 @@ def run(df, user_question):
                     color=alt.Color("Onsite/Offshore:N", legend=alt.Legend(title="Location")),
                     tooltip=["Month", "Onsite/Offshore", "Headcount"]
                 )
-                .properties(width=300, height=300, title="Monthly Onsite vs Offshore")
+                .properties(width=300, height=450, title="Monthly Onsite vs Offshore")
             )
 
-            # Display side by side
-            st.altair_chart(billable_chart | onsite_chart, use_container_width=True)
+            combined_chart = alt.hconcat(
+            billable_chart,
+            onsite_chart
+            ).resolve_scale(
+            y='independent'  # so their y-scales don’t clash
+            ).configure_concat(
+            spacing=400  # <-- add gap between the charts
+            )
+
+            st.altair_chart(combined_chart, use_container_width=True)
