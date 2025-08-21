@@ -115,6 +115,7 @@ def run(df, user_question):
                 ax.legend(loc='upper left', fontsize=8)
                 ax.grid(False)
                 st.pyplot(fig)
+                plt.close(fig) # Added this line to close the first figure
 
             st.markdown("### 📊 Headcount Composition by Month")
             
@@ -140,4 +141,4 @@ def run(df, user_question):
             axs[1].legend(loc='upper left', fontsize=8)
             axs[1].tick_params(axis='x', rotation=45)
             st.pyplot(fig1)
-            plt.close('all') # Added a general close call to clean up all figures
+            plt.close(fig1) # It is better to use `plt.close(fig1)` instead of `plt.close('all')`
