@@ -176,7 +176,7 @@ def display_header():
             </h1>
         </div>
         <div style="flex: 1; text-align: right;">
-            <img src="data:image/png;base64,{encoded_image}" width="140" />
+            <img src="data:image/png;base64,{encoded_image}" width="230" />
         </div>
     </div>
     """,
