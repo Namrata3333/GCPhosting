@@ -1,7 +1,7 @@
 # app.py
 
 import streamlit as st
-st.set_page_config(page_title="LTTS BI Assistant", layout="wide")
+st.set_page_config(page_title="Halo", layout="wide")
 
 from utils.semantic_matcher import find_best_matching_qid  # returns (qid, prompt, score)
 import importlib
@@ -138,6 +138,7 @@ def display_header():
     json.loads(os.getenv("GOOGLE_APPLICATION_CREDENTIALS_JSON")))
     bucket = client.bucket(os.getenv("GCS_BUCKET_NAME"))
     logo_path = "Logo.png"  # Same path structure
+    halo_path="Halo.png"
     
     # Check if logo exists in GCS
     blob = bucket.blob(logo_path)
@@ -150,25 +151,37 @@ def display_header():
             buffered = BytesIO()
             logo.save(buffered, format="PNG")
             encoded_image = base64.b64encode(buffered.getvalue()).decode()
+    blob = bucket.blob(halo_path)
+    if blob.exists():
+        # Load and process image (same as original)
+        with BytesIO() as file_obj:
+            blob.download_to_file(file_obj)
+            file_obj.seek(0)
+            logo = Image.open(file_obj)
+            buffered = BytesIO()
+            logo.save(buffered, format="PNG")
+            encoded_image1 = base64.b64encode(buffered.getvalue()).decode()    
+
 
         # IDENTICAL HTML STRUCTURE AS ORIGINAL
         st.markdown(
-            f"""
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: -20px; margin-bottom: 10px;">
-                <div style="flex: 1;"></div>
-                <div style="flex: 2; text-align: center;">
-                    <h1 style='font-family: "Segoe UI", sans-serif; font-size: 40px; color: #002D62; margin: 0;'>
-                        Conversational Analytics Assistant
-                    </h1>
-                </div>
-                <div style="flex: 1; text-align: right;">
-                    <img src="data:image/png;base64,{encoded_image}" width="140" />
-                </div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
+    f"""
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: -20px; margin-bottom: 10px;">
+        <div style="flex: 1; text-align: left;">
+            <img src="data:image/png;base64,{encoded_image1}" width="140" />
+        </div>
+        <div style="flex: 2; text-align: center;">
+            <h1 style='font-family: "Segoe UI", sans-serif; font-size: 40px; color: #002D62; margin: 0;'>
+                Conversational Analytics Assistant
+            </h1>
+        </div>
+        <div style="flex: 1; text-align: right;">
+            <img src="data:image/png;base64,{encoded_image}" width="140" />
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 # Call the function exactly as before
 display_header()
 
@@ -178,7 +191,7 @@ display_header()
 st.markdown(
     """
     <div style='text-align:center; font-size:18px; margin-bottom: 10px;'>
-    Welcome to <b>AIde</b> — an AI-powered tool for analyzing business trends using your P&L and utilization data.
+    Welcome to <b>Halo</b> — an AI-powered tool for analyzing business trends using your P&L and utilization data.
     </div>
     """,
     unsafe_allow_html=True,
